@@ -36,6 +36,7 @@ This also includes Documents in other sections, but ones which you have access t
 ---
 ### Mentorships
 - [Mentor List](Mentor-List)
+- [Mentor Responsibilities](Mentor-Responsibilities) 
 ---
 ### Quicklinks
 - [Website](https://mc-odyssey.store/)
