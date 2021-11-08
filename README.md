@@ -1,6 +1,7 @@
 # OdysseyGaming - Documents & Information 
-![PixelmonHeader](uploads/978753bd6326b307dbe39ac064e7b2ef/PixelmonHeader.png)
+![banner](https://user-images.githubusercontent.com/84603499/140682231-0c5ad6fd-2846-499a-8fc8-b0407e261d10.png)
 # Staff Documents 
+
 
 On this page you will be able to find any and all information regarding your position and job preformance, take a second to take a look over the "Staff Guidelines" and "Role Criteria" documents for your designated position. 
 
