@@ -14,7 +14,7 @@ This also includes Documents in other sections, but ones which you have access t
 ### [Home](home)
 ---
 ### Important Documents
-- [Staff Guidelines](Staff-Guidelines)
+- [Staff Guidelines](https://github.com/MrPazzo/OdysseyGaming/tree/main/Read%20me%20links/Documents%20&%20Information/Important%20Documents/Staff%20Guidelines)
 - [Punishment Guidelines](Punishment-Guidelines)
 - [Staff List](Staff-List)
 - [Staff Hierarchy](Staff-Hierarchy)
