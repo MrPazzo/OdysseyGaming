@@ -11,7 +11,7 @@ As well be sure to check out "Mentor List" to see who your mentor is! If your ev
 
 This also includes Documents in other sections, but ones which you have access to will only be accessible by you.
 
-### [Home](home)
+### [Home](https://github.com/MrPazzo/OdysseyGaming/blob/main/README.md)
 ---
 ### Important Documents
 - [Staff Guidelines](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Staff%20Guidelines.md)
