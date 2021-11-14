@@ -14,29 +14,29 @@ This also includes Documents in other sections, but ones which you have access t
 ### [Home](home)
 ---
 ### Important Documents
-- [Staff Guidelines](Staff-Guidelines)
-- [Punishment Guidelines](Punishment-Guidelines)
-- [Staff List](Staff-List)
-- [Staff Hierarchy](Staff-Hierarchy)
-- [Graph (COMING SOON)](https://graph.mc-odyssey.com/)
+- [Staff Guidelines](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Staff%20Guidelines.md)
+- [Punishment Guidelines](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Punishment%20Guidelines.md)
+- [Staff List](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Staff%20List.md)
+- [Staff Hierarchy](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Staff%20Hierarchy.md)
+- [Graph (COMING SOON)](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Graph%20(COMING%20SOON).md)
 ---
 ### Role Criteria/Permissions 
-- [Helper Criteria](Helper-Criteria)
-- [Trial-Mod Criteria](T-Mod-Criteria)
-- [Mod Criteria](Mod-Criteria)
-- [Head-Mod Criteria](Head-Mod-Criteria)
+- [Helper Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Helper%20Criteria.md)
+- [Trial-Mod Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Trial-Mod%20Criteria.md)
+- [Mod Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Mod%20Criteria.md)
+- [Head-Mod Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Head-Mod%20Criteria.md)
 - [Admin Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Admin%20Criteria.md)
-- [Head-Admin Criteria](Head-Admin-Criteria)
-- [Manager Criteria](Manager-Criteria)
+- [Head-Admin Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Head-Admin%20Criteria.md)
+- [Manager Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Manager%20Criteria.md)
 ---
 ### Moderation
-- [Discord Event Messages](Create Discord Event Messages)
-- [Server Event Announcements](Server-Event-Announcments)
-- [Hosting a Tournament Using Challonge](Hosting-a-Tournament-using-Challonge)
+- [Discord Event Messages](https://github.com/MrPazzo/OdysseyGaming/edit/main/Pages/Discord%20Event%20Messages.md)
+- [Server Event Announcements](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Server%20Event%20Announcements.md)
+- [Hosting a Tournament Using Challonge](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Hosting%20a%20Tournament%20Using%20Challonge.md)
 ---
 ### Mentorships
-- [Mentor List](Mentor-List)
-- [Mentor Responsibilities](Mentor-Responsibilities) 
+- [Mentor List](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Mentor%20List.md)
+- [Mentor Responsibilities](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Mentor%20Responsibilities.md) 
 ---
 ### Quicklinks
 - [Website](https://mc-odyssey.store/)
