@@ -30,7 +30,7 @@ This also includes Documents in other sections, but ones which you have access t
 - [Manager Criteria](Manager-Criteria)
 ---
 ### Moderation
-- [Discord Event Messages](Create Discord Event Messages.md)
+- [Discord Event Messages](Create Discord Event Messages)
 - [Server Event Announcements](Server-Event-Announcments)
 - [Hosting a Tournament Using Challonge](Hosting-a-Tournament-using-Challonge)
 ---
