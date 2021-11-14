@@ -14,7 +14,7 @@ This also includes Documents in other sections, but ones which you have access t
 ### [Home](home)
 ---
 ### Important Documents
-- [Staff Guidelines](https://github.com/MrPazzo/OdysseyGaming/tree/main/Read%20me%20links/Documents%20&%20Information/Important%20Documents/Staff%20Guidelines)
+- [Staff Guidelines](Staff-Guidelines)
 - [Punishment Guidelines](Punishment-Guidelines)
 - [Staff List](Staff-List)
 - [Staff Hierarchy](Staff-Hierarchy)
@@ -25,12 +25,12 @@ This also includes Documents in other sections, but ones which you have access t
 - [Trial-Mod Criteria](T-Mod-Criteria)
 - [Mod Criteria](Mod-Criteria)
 - [Head-Mod Criteria](Head-Mod-Criteria)
-- [Admin Criteria](Admin-Criteria)
+- [Admin Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Admin%20Criteria.md)
 - [Head-Admin Criteria](Head-Admin-Criteria)
 - [Manager Criteria](Manager-Criteria)
 ---
 ### Moderation
-- [Discord Event Messages](Event-Discord-Announcements)
+- [Discord Event Messages](Create Discord Event Messages.md)
 - [Server Event Announcements](Server-Event-Announcments)
 - [Hosting a Tournament Using Challonge](Hosting-a-Tournament-using-Challonge)
 ---
