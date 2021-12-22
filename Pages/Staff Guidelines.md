@@ -1,8 +1,8 @@
-# OdysseyGaming - Documents & Information 
+# OdysseyGaming - Staff Guidelines 
 ![banner](https://media.discordapp.net/attachments/296281857232732161/923334010615242792/unknown.png)
-# Staff Documents 
+# Staff Expectations
 
 
-On this page you will be able to find any and all information regarding your position and job preformance, take a second to take a look over the "Staff Guidelines" and "Role Criteria" documents for your designated position. 
+It should come as no suprise to you that as a member of the staff team it is expected of you to act with a sense of maturity and respect while interacting with others within the community. As well, following and enforcing all server rules should go without saying... this section will inform you on you should act as a staff member, reminding you of staff rules, server rules, and overall just making sure everyone's got some common sense.
 
-As well be sure to check out "Mentor List" to see who your mentor is! If your ever unsure of what to do in a situation or have any questions not found in the staff documents they will be your first person of contact. If for whatever reason your mentor is unavaliable and the issue is urgent, directly contact anyone admin+.
+
