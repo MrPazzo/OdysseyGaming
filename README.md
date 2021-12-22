@@ -31,7 +31,7 @@ This also includes Documents in other sections, but ones which you have access t
 ### Moderation
 - [Discord Event Messages](https://github.com/MrPazzo/OdysseyGaming/edit/main/Pages/Discord%20Event%20Messages.md)
 - [Server Event Announcements](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Server%20Event%20Announcements.md)
-- [Hosting a Tournament Using Challonge](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Hosting%20a%20Tournament%20Using%20Challonge.md)
+- [Hosting a Tournament](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Hosting%20a%20Tournament%20Using%20Challonge.md)
 ---
 ### Mentorships
 - [Mentor List](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Mentor%20List.md)
