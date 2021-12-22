@@ -1,5 +1,5 @@
 # OdysseyGaming - Documents & Information 
-![banner](https://user-images.githubusercontent.com/84603499/140682231-0c5ad6fd-2846-499a-8fc8-b0407e261d10.png)
+![banner](https://cdn.discordapp.com/attachments/296281857232732161/923335432148766740/unknown.png)
 # Staff Documents 
 
 
