@@ -16,6 +16,7 @@ Each of you have been selected to represent the community as a leader, meaning y
 5. In order to recieve a staff promotion, reaching the required number of hours for that promotion is certainly important, but not only what we base them off of.
 6. Under no circumstance should a staff member use profanity towards another player.
 7. If you're leaving for a while and need to go on Staff Time Away, send a message to your mentor with the reason and however long you expect to be away.
+8. Do not use your position as a staff member as a way to force things upon players.
 
 
 
