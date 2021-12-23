@@ -1,8 +1,33 @@
-# OdysseyGaming - Documents & Information 
+# OdysseyGaming - Staff List
 ![banner](https://media.discordapp.net/attachments/296281857232732161/923407668268396624/unknown.png)
-# Staff Documents 
+## Staff Members
 
+Here you will find a current list of all our staff members, the list is updated weekly so if it seems to be out of date just give it a few days before contacting someone. If you are looking to find a list of mentors and mentee's refer to the "Mentor List" section on the home page. 
 
-On this page you will be able to find any and all information regarding your position and job preformance, take a second to take a look over the "Staff Guidelines" and "Role Criteria" documents for your designated position. 
+---
+### Network Owner
 
-As well be sure to check out "Mentor List" to see who your mentor is! If your ever unsure of what to do in a situation or have any questions not found in the staff documents they will be your first person of contact. If for whatever reason your mentor is unavaliable and the issue is urgent, directly contact anyone admin+.
+OWNER - Mr_Pazzo
+
+### Management 
+
+MANAGER - Skepticism
+BUILDERS - 
+
+### Development
+DEVELOPER - Cobanermani 
+
+### Administration
+
+HEAD-ADMIN - N/A
+ADMIN - Trevtheman
+
+### Moderation
+
+HEAD-MOD -
+MOD - MoonRacco0n
+TRAIL-MOD - 
+HELPER - Fluffy_Archer
+
+ 
+
