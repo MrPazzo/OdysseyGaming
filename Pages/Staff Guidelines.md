@@ -20,5 +20,4 @@ Each of you have been selected to represent the community as a leader, meaning y
 
 
 
-**For further information on more specific guidelines for your personal role, refer to the "Role Criteria" section on the home page.
-**
+**For further information on more specific guidelines for your personal role, refer to the "Role Criteria" section on the home page.**
