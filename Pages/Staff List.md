@@ -11,22 +11,27 @@ OWNER - Mr_Pazzo
 
 ### Management 
 
-MANAGER - Skepticism
-BUILDERS - 
+MANAGER - Skepticism 
 
 ### Development
 DEVELOPER - Cobanermani 
 
+BUILDERS - 
+
 ### Administration
 
 HEAD-ADMIN - N/A
+
 ADMIN - Trevtheman
 
 ### Moderation
 
 HEAD-MOD -
+
 MOD - MoonRacco0n
+
 TRAIL-MOD - 
+
 HELPER - Fluffy_Archer
 
  
