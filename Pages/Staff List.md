@@ -7,32 +7,33 @@ Here you will find a current list of all our staff members, the list is updated 
 ---
 ### Network Owner
 
-OWNER - Mr_Pazzo
+**OWNER** - Mr_Pazzo
 
 ### Management 
 
-MANAGER - Skepticism 
+**MANAGER** - Skepticism 
 
 ### Development
-DEVELOPER - Cobanermani 
 
-BUILDERS - 
+**DEVELOPER** - Cobanermani 
+
+**BUILDERS** - N/A
 
 ### Administration
 
-HEAD-ADMIN - N/A
+**HEAD-ADMIN** - N/A
 
-ADMIN - Trevtheman
+**ADMIN** - Trevtheman
 
 ### Moderation
 
-HEAD-MOD -
+**HEAD-MOD** - N/A
 
-MOD - MoonRacco0n
+**MOD** - MoonRacco0n
 
-TRAIL-MOD - 
+**TRAIL-MOD** - N/A
 
-HELPER - Fluffy_Archer
+**HELPER** - Fluffy_Archer
 
  
 
