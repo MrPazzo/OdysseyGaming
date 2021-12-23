@@ -18,4 +18,7 @@ Each of you have been selected to represent the community as a leader, meaning y
 7. If you're leaving for a while and need to go on Staff Time Away, send a message to your mentor with the reason and however long you expect to be away.
 
 
-For further information on more specific guidelines for your personal role, refer to the "Role Criteria" section on the home page.
+
+
+**For further information on more specific guidelines for your personal role, refer to the "Role Criteria" section on the home page.
+**
