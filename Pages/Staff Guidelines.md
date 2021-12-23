@@ -5,7 +5,7 @@
 
 It should come as no suprise to you that as a member of the staff team it is expected of you to act with a sense of maturity and respect while interacting with others within the community. As well, following and enforcing all server rules should go without saying... 
 
-Each of you have been selected to represent the community as a leader, meaning you are now considered a role model in the community. This section will inform you on how you should act as a staff member, reminding you of staff rules, server rules, and overall just making sure everyone's got some common sense.
+Each of you have been selected to represent the community as a leader, meaning you are now considered a role model. This section will inform you on how you should act as a staff member, reminding you of staff rules, server rules, and overall just making sure everyone's got some common sense.
 
 ### Staff Rules & Regulations 
 
