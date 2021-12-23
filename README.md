@@ -23,7 +23,7 @@ This also includes Documents in other sections, but ones which you have access t
 - [Helper Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Helper%20Criteria.md)
 - [Trial-Mod Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Trial-Mod%20Criteria.md)
 - [Mod Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Mod%20Criteria.md)
-- [Head-Mod Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Head-Mod%20Criteria.md)
+- [Head-Mod Criteria] (COMING SOON) (https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Head-Mod%20Criteria.md)
 - [Admin Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Admin%20Criteria.md)
 - [Head-Admin Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Head-Admin%20Criteria.md)
 - [Manager Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Manager%20Criteria.md)
