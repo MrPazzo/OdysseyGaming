@@ -7,7 +7,7 @@ It should come as no suprise to you that as a member of the staff team it is exp
 
 Each of you have been selected to represent the community as a leader, meaning you are now considered a role model in the community. This section will inform you on how you should act as a staff member, reminding you of staff rules, server rules, and overall just making sure everyone's got some common sense.
 
-# Staff Rules & Regulations 
+### Staff Rules & Regulations 
 
 1. Be patient and kind with ALL players and staff, if a member is being disrespectful towards you, contact your mentor or an upper staff member to handle the situation.
 2. If you come to learn about a future update that has not been officially released yet, do **NOT** leak any contents of the update, leaking anything will result in a full demotion and possibly a ban.
