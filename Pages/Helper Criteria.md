@@ -8,5 +8,7 @@
 # Role Permissions
 
 /mute (player) (duration) (reason)
+
 /warn (player) (duration) (reason)
+
 /nick (nickname) &# for colours, &l for bold, &o for italic
