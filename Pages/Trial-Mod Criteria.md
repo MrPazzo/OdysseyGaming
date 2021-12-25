@@ -12,3 +12,8 @@
 - **/warn** (player) (duration) (reason)
 
 - **/nick** (nickname) &# for colours, &l for bold, &o for italic
+
+- **/jail**
+
+
+**Unauthorized punishments or abuse of permissions will lead to **
