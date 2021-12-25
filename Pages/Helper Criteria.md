@@ -3,7 +3,11 @@
 # Role Performance
 
 
-On this page you will be able to find any and all information regarding your position and job preformance, take a second to take a look over the "Staff Guidelines" and "Role Criteria" documents for your designated position. 
+
 
 # Role Permissions
 
+/mute <player> <duration> <reason>
+/unmute
+/warn <player> <duration> <reason>
+/nick <nickname> &# for colours, &l for bold, &o for italic
