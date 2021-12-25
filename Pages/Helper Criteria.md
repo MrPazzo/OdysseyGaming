@@ -9,7 +9,11 @@
 
 - **/mute** (player) (duration) (reason)
 
-- **/checkmute** <player>
+- **/checkmute** (player)
+
+- **/checknotes** (player)
+
+- **/checkwarnings** (player) 
 
 - **/warn** (player) (duration) (reason)
 
