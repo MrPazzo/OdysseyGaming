@@ -9,6 +9,9 @@
 
 - **/mute** (player) (duration) (reason)
 
+- **/checkmute** <player>
+
 - **/warn** (player) (duration) (reason)
 
 - **/nick** (nickname) &# for colours, &l for bold, &o for italic
+
