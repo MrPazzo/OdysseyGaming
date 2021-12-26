@@ -19,3 +19,6 @@
 
 - **/nick** (nickname) &# for colours, &l for bold, &o for italic
 
+- **/a** - toggle staff chat
+
+**Unauthorized punishments or abuse of permissions will lead to a conversation with upper staff and depending on the severity of the issue can be demoted, removed the staff team entirely, or banned from the network.**
