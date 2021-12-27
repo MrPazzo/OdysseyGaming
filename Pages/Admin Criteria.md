@@ -3,7 +3,7 @@
 # Role Performance
 
 
-
+A full list of admin commands can be found 
 
 # Role Permissions
 
@@ -44,7 +44,36 @@
 - **/vanish** 
 
 - **/pokeevolve**
+  
+- **/economylite** tab in rest
 
+- **/ban** (player)
+
+- **/nameban** - ban innapropriate names
+
+- **/commandspy** - toggle command spy
+
+- **/echest** (player) 
+
+- **/freezeplayer** (player)
+
+- **/lightning** (player)
+
+- **/kittycannon** - toggle kittycannon
+
+- **/rocket** (player)
+
+- **/gamemode creative** - access gamemode creative
+
+- **/gamemode spectator** - access gamemode spectator
+
+- **/globalmute** - mute players access to chat (only for events)
+
+- **/skull** (player)
+
+- **/speed** 1-10
+
+- **/thru** - teleport through the wall infront of you
 
 **Unauthorized punishments or abuse of permissions will lead to a conversation with upper staff and depending on the severity of the issue can be demoted, removed the staff team                                                                  entirely, or banned from the network.**
 
