@@ -3,8 +3,8 @@
 # Role Performance
 
 
-A full list of admin commands can be found on this link:
-
+**A full list of admin commands can be found on this link:
+**
 https://docs.google.com/document/d/1ReT9sqBj4tt6S31_N4cI4Bb28o4HnRdfCBF2Y8u3iGM/edit
 
 document contains commands for;
