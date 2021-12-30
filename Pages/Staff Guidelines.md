@@ -17,6 +17,7 @@ Each of you have been selected to represent the community as a leader, meaning y
 6. Under no circumstance should a staff member use profanity towards another player.
 7. If you're leaving for a while and need to go on Staff Time Away, send a message to your mentor with the reason and however long you expect to be away.
 8. Do not use your position as a staff member as a way to force things upon players.
+9. Under no circumstance are staff members above the rules, staff members must follow all rules at all times.
 
 
 
