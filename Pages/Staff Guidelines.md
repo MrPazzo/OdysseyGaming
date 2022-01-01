@@ -18,7 +18,7 @@ Each of you have been selected to represent the community as a leader, meaning y
 7. If you're leaving for a while and need to go on Staff Time Away, send a message to your mentor with the reason and however long you expect to be away.
 8. Do not use your position as a staff member as a way to force things upon players.
 9. Under no circumstance are staff members above the rules, staff members must follow all rules at all times.
-
+10. Any staff member below the rank of admin is **NOT** allowed to go AFK at any point in time, if you need to leave, temporarily log off the server or go to hub. Staff Admin+ must be in vanish if they need to be AFK while doing server work. 
 
 
 
