@@ -12,7 +12,7 @@ Although the position may seem small in hindsight, the helpers impact on the com
 
 - If an upper staff member asks for your help with something, whether it be testing, helping run an event, or anything server maintenance related, you are not required to help if you are busy, but assisting upper staff is greatly taken into consideration with promotions.
 
-- Moderation and answer any questions in chat to your best ability, if you do not know the answer to a question, be proactive and ask another staff member or if nobody is avaliable try to look it up.
+- Moderate and answer any questions in chat to your best ability, if you do not know the answer to a question, be proactive and ask another staff member or if nobody is avaliable try to look it up.
 
 - Under
 
