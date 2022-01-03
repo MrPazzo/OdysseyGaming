@@ -14,8 +14,7 @@ Although the position may seem small in hindsight, the helpers impact on the com
 
 - Moderate and answer any questions in chat to your best ability, if you do not know the answer to a question, be proactive and ask another staff member or if nobody is avaliable try to look it up.
 
-- Under
-
+- Go through and take the time to learn what each text channel in both the public, and staff discords are used for. This will enable you to direct player who may have questions related to suggestions, account linking, etc... 
 
 # Role Permissions
 
