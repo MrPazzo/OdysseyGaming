@@ -16,7 +16,7 @@ Although the position may seem small in hindsight, the helpers impact on the com
 
 - Go through and take the time to learn what each text channel in both the public, and staff discords are used for. This will enable you to direct player who may have questions related to suggestions, account linking, etc... 
 
-- The minium hour reqiurement to stay as a helper is 10 hours per week, failure to reach this requirement will result in a conversation with upper staff and if the issue persists, you may be removed from the staff team. In addition to this, in order to be **considered** for a promotion, you must reach at least 15 hours per week.
+- The minium hour reqiurement to stay as a helper is 7 hours per week, failure to reach this requirement will result in a conversation with upper staff and if the issue persists, you may be removed from the staff team. In addition to this, in order to be **considered** for a promotion, you must reach at least 14 hours per week.
 
 # Role Permissions
 
