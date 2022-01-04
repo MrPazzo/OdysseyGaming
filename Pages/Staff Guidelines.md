@@ -19,7 +19,7 @@ Each of you have been selected to represent the community as a leader, meaning y
 8. Do not use your position as a staff member as a way to force things upon players.
 9. Under no circumstance are staff members above the rules, staff members must follow all rules at all times.
 10. Any staff member below the rank of admin is **NOT** allowed to go AFK at any point in time, if you need to leave, temporarily log off the server or go to hub. Staff Admin+ must be in vanish if they need to be AFK while doing server work. 
-11. Once you become staff you gain the ability to nickname yourself, we ask that whatever name you pick you keep the name tabable (maybe like a short form or smth) as well, always keep an eye out for player inappropriate usernames and if you see one let someone admin+ know.  
+11. Once you become staff you gain the ability to nickname yourself, we ask that whatever name you pick you keep the name tabable (maybe like a short form or smth) as well, always keep an eye out for player inappropriate nicknames/usernames and if you see one let someone admin+ know.  
 
 
 **For further information on more specific guidelines for your personal role, refer to the "Role Criteria" section on the home page.**
