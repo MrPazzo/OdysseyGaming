@@ -2,21 +2,15 @@
 ![banner](https://media.discordapp.net/attachments/296281857232732161/923334494549835827/unknown.png)
 # Role Performance
 
-Becoming a Helper is your introduction into the staff team and the start of your staffing career. The purpose of the helper position is to act as a guide for players who may just be starting out or who may have some questions about how the network works. It's your job as a helper to have a good understanding of pixelmon as well as knowning about special features, plugins, and events that odyssey has to offer.
+If promoted to trail-mod, it means the staff community has recognized your work and commitment to the server up until this point. Now although it may be early, the jump from helper to trail-mod is a big one. The role is meant to hone your skills on server moderation allowing you to have a wider range of permissions such as social spy, teleport, temp-ban privileges, and more. 
 
-Although the position may seem small in hindsight, the helpers impact on the community are huge, while helpers main role is to be active within the servers, the connections you'll make with players is amazing and help to create the friendly atmosphere odyssey continues to radiate with.
+It is extremely important that you only use the permissions givin to you if it is needed to solve a player issue or if a player needs a punishment that follows Punishment Guidelines. If you are confused on how you should act on a situation contact your mentor. They will work through the issue with you. 
 
 # Role Requirements 
 
-- When a player joins a server for the first time, greet them by welcoming them to the server, you may also add an additional message letting them know you're avaliable to help them with any questions they may have.
+- With becoming a trial-mod you recieve the access to view tickets, as you are still training to because a moderator, we ask that you do not respond to any ticket and rather observe how they are dealt with. You will be retrained on how to do tickets when you get to 
 
-- If an upper staff member asks for your help with something, whether it be testing, helping run an event, or anything server maintenance related, you are not required to help if you are busy, but assisting upper staff is greatly taken into consideration with promotions.
-
-- Moderate and answer any questions in chat to your best ability, if you do not know the answer to a question, be proactive and ask another staff member or if nobody is avaliable try to look it up.
-
-- Go through and take the time to learn what each text channel in both the public, and staff discords are used for. This will enable you to direct player who may have questions related to suggestions, account linking, etc... 
-
-- The minium hour reqiurement to stay as a helper is 7 hours per week, failure to reach this requirement will result in a conversation with upper staff and if the issue persists, you may be removed from the staff team. In addition to this, in order to be **considered** for a promotion, you must reach at least 14 hours per week.
+- The minium hour reqiurement to stay as a trail-mod is 9 hours per week, failure to reach this requirement will result in a conversation with upper staff and if the issue persists, you may be removed from the staff team. In addition to this, in order to be **considered** for a promotion, you must reach at least 16 hours per week.
 
 # Role Permissions
 
