@@ -12,7 +12,7 @@ It is extremely important that you only use the permissions givin to you if it i
 
 - With now having the access to add notes to players, you are able to flag players warning the staff of their history when they come online, its important to write notes on bad situations so that were able to know if it's the players first issue. Similar information to this should be written down the the discord channel "punishment-logging".
 
-- You are absolutely **NOT** allowed to force teleport yourself to someone who is afk on a legend under any circumstance, if ever caught doing this you will immediately be removed from the staff team. (we have logs we're watchin o.o)
+- You are absolutely **NOT** allowed to force teleport yourself to someone who is afk on a legend under any circumstance, if ever caught doing this you will immediately be removed from the staff team. (we have logs we're watchin' o.o)
 
 - The minium hour reqiurement to stay as a trail-mod is 9 hours per week, failure to reach this requirement will result in a conversation with upper staff and if the issue persists, you may be demoted/removed from the staff team. In addition to this, in order to be **considered** for a promotion, you must reach at least 16 hours per week.
 
