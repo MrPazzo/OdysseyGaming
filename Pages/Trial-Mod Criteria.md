@@ -4,7 +4,7 @@
 
 If promoted to trail-mod, it means the staff community has recognized your work and commitment to the server up until this point. Now although it may be early, the jump from helper to trail-mod is a big one. The role is meant to hone your skills on server moderation allowing you to have a wider range of permissions such as social spy, teleport, temp-ban privileges, and more. 
 
-It is extremely important that you only use the permissions givin to you if it is needed to solve a player issue or if a player needs a punishment that follows [Punishment Guidelines]. If you are confused on how you should act on a situation contact your mentor, they will work through the issue with you. 
+It is extremely important that you only use the permissions givin to you if it is needed to solve a player issue or if a player needs a punishment that follows [Punishment Guidelines](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Punishment%20Guidelines.md). If you are confused on how you should act on a situation contact your mentor, they will work through the issue with you. 
 
 # Role Requirements 
 
