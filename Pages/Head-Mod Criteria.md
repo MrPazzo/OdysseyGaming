@@ -1,4 +1,4 @@
-# OdysseyGaming - Mead-Mod Criteria
+# OdysseyGaming - Head-Mod Criteria
 ![banner](https://cdn.discordapp.com/attachments/746231499355062372/928410148005871626/unknown.png)
 # Role Performance
 
