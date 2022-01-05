@@ -1,4 +1,4 @@
-### Odyssey Gaming - Hosting a Tournament with Challonge
+# Odyssey Gaming - Hosting a Tournament with Challonge
 
 ## Setting up the Tournament
 
