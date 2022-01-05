@@ -46,7 +46,7 @@ Remember to announce the final 4 matches as semi-finals, finals, and match for 3
 
 ![download](https://user-images.githubusercontent.com/78932689/148287311-c653b69b-ecdc-44bc-b93d-fe3b70e24580.png)
 
-Once all of the scores are reported and the battles are all over, select End the Tournament. Announce the names of the top 3, and distribute rewards accordingly. You will have access to /kit tourneyitems, and you are responsible for only using it to destribute rewards.
+Once all of the scores are reported and the battles are all over, select End the Tournament. Announce the names of the top 3, and distribute rewards accordingly. You will have access to /kit tournament, and you are responsible for only using it to destribute rewards.
 
 ![download](https://user-images.githubusercontent.com/78932689/148287908-8a2977ad-26f6-41e2-bb43-939e0d375075.png)
 
