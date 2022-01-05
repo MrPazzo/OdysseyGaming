@@ -124,10 +124,10 @@ __3rd Round:__
 
 ```
 :buizel: __**PICTIONARY ON ISLAND**__ :buizel:
-We are hosting Pictionary :jigglypen: in **30 minutes**. Join us at **/warp pictionary ** to participate! 
+We are hosting Pictionary :coolz:  in **30 minutes**. Join us at **/warp pictionary ** to participate! 
 
 **INFORMATION :hmmm: **
-The event consists of a Staff member drawing an image on the wall :jigglypen:. The first player to guess correctly what is being drawn wins a point. :bigW:  **The player who has the most points at the end of the event wins!** :gg: 
+The event consists of a Staff member drawing an image on the wall :jigglypuff:. The first player to guess correctly what is being drawn wins a point. :bigW:  **The player who has the most points at the end of the event wins!** :gg: 
 
 **REWARDS :trophy: **
 __:first_place: 1st Place:__
