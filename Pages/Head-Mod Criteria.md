@@ -1,9 +1,16 @@
-# OdysseyGaming - Documents & Information 
-![banner](https://user-images.githubusercontent.com/84603499/140682231-0c5ad6fd-2846-499a-8fc8-b0407e261d10.png)
-# Staff Documents 
+# OdysseyGaming - Mead-Mod Criteria
+![banner](https://cdn.discordapp.com/attachments/746231499355062372/928410148005871626/unknown.png)
+# Role Performance
 
 
-On this page you will be able to find any and all information regarding your position and job preformance, take a second to take a look over the "Staff Guidelines" and "Role Criteria" documents for your designated position. 
 
-As well be sure to check out "Mentor List" to see who your mentor is! If your ever unsure of what to do in a situation or have any questions not found in the staff documents they will be your first person of contact. If for whatever reason your mentor is unavaliable and the issue is urgent, directly contact anyone admin+.
+# Role Requirements 
+
+- 
+
+- The minium hour reqiurement to stay as a trail-mod is 9 hours per week, failure to reach this requirement will result in a conversation with upper staff and if the issue persists, you may be demoted/removed from the staff team. In addition to this, in order to be **considered** for a promotion, you must reach at least 16 hours per week.
+
+**Please remember that staff members are always expected to fulfill the requirements of all of the positions before them to some degree, keeping that in mind, the main focuses of your roles will be outlined here.**
+
+# Role Permissions
 
