@@ -8,7 +8,7 @@ Please remember that it's crucial to always keep a calm head when dealing with t
 
 # Role Requirements 
 
-- Visit #mod-chat in the staff discord and look at pinned messages to view what commands to run step by step for each event. 
+- Visit #mod-chat in the staff discord and look at pinned messages to view what commands to run step by step for each event. Some events may require you to manually distribute rewards, the commands to access the event kits will also be found in mod chat.
 
 - If for any reason you want to request a mentee transfer, dm somebody admin+ and they will retrieve the google doc link for you. Fill it out and submite and you will be updated shortly.
 
