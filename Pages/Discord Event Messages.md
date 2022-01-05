@@ -2,7 +2,7 @@
 ![banner](https://cdn.discordapp.com/attachments/296281857232732161/923336518192496660/unknown.png)
 # Discord Event Messages
 
-Here you will be able to find all the messages needed to announce a daily event on the Odyssey Gaming @Events channel on Discord, with the corresponding format. Keep in mind to change the rewards as needed. 
+Here you will be able to find all messages needed to post in the #events channel on discord, whenever posting in this channel ping the @event role and the @server role corresponding to the server the event is taking place on. Be aware to post the event messages 30 minutes before the event starts and broadcast announcements from [Server Event Announcements](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Server%20Event%20Announcements.md) while on the server.
 
 # Events
 
