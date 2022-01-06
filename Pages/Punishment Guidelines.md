@@ -101,7 +101,7 @@ If not, find the origins of the claim and delete the newer one
 * **Staff Reports**
   - Conversation with upper staff
 
-* **AFK **
+* **AFK**
   - 1st. Warning
   - 2nd. Conversation with upper staff
   - 3rd. Position demotion and put on probation 
