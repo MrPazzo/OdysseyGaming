@@ -8,13 +8,13 @@ It is extremely important that you only use the permissions givin to you if it i
 
 # Role Requirements 
 
-- With becoming a trial-mod you recieve the access to view tickets, as you are still training to become a moderator, we ask that you do not respond to any ticket and rather observe how they are dealt with. You will be retrained on how to do tickets when you get promoted to moderator where you will be expected to answer tickets frequently. 
+- With becoming a trial-mod you receive the access to view tickets, as you are still training to become a moderator, we ask that you do not respond to any ticket and rather observe how they are dealt with. You will be trained on how to do tickets when you get promoted to moderator where you will be expected to answer tickets frequently. 
 
-- With now having the access to add notes to players, you are able to flag players warning the staff of their history when they come online, its important to write notes on bad situations so that were able to know if it's the players first issue. Similar information to this should be written down the the discord channel "punishment-logging".
+- With now having the access to add notes to players, you are able to flag players warning the staff of their history when they come online. It's important to write notes on bad situations so that were able to know if it's the players first issue. Similar information to this should be written down the the discord channel "punishment-logging".
 
-- You are absolutely **NOT** allowed to force teleport yourself to someone who is afk on a legend under any circumstance, if ever caught doing this you will immediately be removed from the staff team. (we have logs we're watchin' o.o)
+- You are absolutely **NOT** allowed to force teleport yourself to someone who is AFK on a legend under any circumstance. If ever caught doing this you will immediately be removed from the staff team. (we have logs we're watchin' o.o)
 
-- The minimum hour reqiurement to stay as a trail-mod is 9 hours per week, failure to reach this requirement will result in a conversation with upper staff and if the issue persists, you may be demoted/removed from the staff team. In addition to this, in order to be **considered** for a promotion, you must reach at least 16 hours per week.
+- The minimum hour requirement to stay as a trail-mod is 9 hours per week. Failure to reach this requirement will result in a conversation with upper staff and if the issue persists, you may be demoted/removed from the staff team. In addition to this, in order to be **considered** for a promotion, you must reach at least 16 hours per week.
 
 **Please remember that staff members are always expected to fulfill the requirements of all of the positions before them to some degree, keeping that in mind, the main focuses of your roles will be outlined here.**
 
