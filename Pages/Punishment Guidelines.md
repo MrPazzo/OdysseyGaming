@@ -76,7 +76,7 @@ If not, find the origins of the claim and delete the newer one
 * **Suicide threats / Death threats**
   -  Permanent Ban (not appealable)
 
-* **Duping **
+* **Duping**
   -  Permanent Ban (not appealable)
 
 * **Bypass Punishments**
