@@ -10,103 +10,103 @@ We have also included the steps that staff will go through if they decide to go 
 
 ### Minor Offenses:
 
-* Character spam
+* **Character spam**
   - 1st. Warning
   - 2nd. Temp Mute 5 Mins
   - 3rd. Temp Mute 30 Mins
 
-* Tp spam (if reported or excessive) 
+* **Tp spam (if reported or excessive)** 
   - 1st. Warning
   - 2nd. Jail 30 Mins
   - 3rd. Jail 60 Mins
 
-* Caps (max of 5 caps allowed) 
+* **Caps (max of 5 caps allowed)** 
   - 1st. Warning
   - 2nd. Temp Mute 5 Mins
   - 3rd. Temp Mute 30 Mins
 
-* Bypass filter (bitch and shit allowed but can be changed) 
+* **Bypass filter (bitch and shit allowed but can be changed)** 
   - 1st. Warning
   - 2nd. Temp Mute 30 Mins
   - 3rd. Temp Mute 60 Mins
 
-* Player trapping
+* **Player trapping**
   - 1st. Warning
   - 2nd. Jail 30 Mins
   - 3rd. Jail 60 Mins
 
 
-* Dextrading
+* **Dextrading**
   - 1st. Warning
   - 2nd. Jail 30 Mins
   - 3rd. Jail 60 Mins
 
-* Begging Staff or other players for items
+* **Begging Staff or other players for items**
   - 1st. Verbal Warning
   - 2nd. Official Warning
   - 3rd. Temp mute 60 Mins
 
-* Claims
+* **Claims**
   - Have a conversation with both parties to see if they will move the claim on their own volition
 If not, find the origins of the claim and delete the newer one
 
-* GTS Etiquette/Baiting
+* **GTS Etiquette/Baiting**
   - 1st. Warning
   - 2nd.  /lp user (player) permission remove GTS
 
 
-* Advertising (Discord or in server)
+* **Advertising (Discord or in server)**
   - 1st. Warning
   - 2nd. 3 Day temp ban
   - 3rd. Permanent Ban
 
 ### Major Offenses: 
 
-* Racism, Sexism, Homophobia, etc..
+* **Racism, Sexism, Homophobia, etc..**
   - Permanent Ban (not appealable)
 
-* Griefing
+* **Griefing**
   - 1st. Jail 6 hours
   - 2nd. Temp Ban 7 Days
   - 3rd. Permanent Ban (appealable)
 
-* Staff Impersonation
+* **Staff Impersonation**
   -  Permanent mute (unmute if name is changed)
 
-* Suicide threats / Death threats
+* **Suicide threats / Death threats**
   -  Permanent Ban (not appealable)
 
-* Duping 
+* **Duping **
   -  Permanent Ban (not appealable)
 
-* Bypass Punishments
+* **Bypass Punishments**
   - 1st. Double original punishment
   - 2nd. Permanent Ban (appealable)
 
-* Illegal Mods
+* **Illegal Mods**
   - Permanent Ban (appealable if mods are removed)
 
 ## Staff Offenses:
 
-* Permission abuse
+* **Permission abuse**
   - 1st. Conversation with upper staff
   - 2nd. Position demotion and put on probation
   - 3rd. Removed from staff team 
 
-* Failure to reach hour requirement
+* **Failure to reach hour requirement**
   - 1 week - Warning
   - 2 weeks - Conversation with upper staff
   - 3 weeks + - Position demotion/Removed from staff team
 
-* Staff Reports
+* **Staff Reports**
   - Conversation with upper staff
 
-* AFK 
+* **AFK **
   - 1st. Warning
   - 2nd. Conversation with upper staff
   - 3rd. Position demotion and put on probation 
 
-* Caught breaking rules
+* **Caught breaking rules**
   - 1st. Conversation with upper staff
   - 2nd. Position demotion and put on probation 
 
