@@ -67,7 +67,7 @@ The last task being introduced to you will be training, you will join staff admi
 - **/echest** (player) 
 
 - **/freezeplayer** (player)
-- 
+
 - **/rocket** (player)
 
 - **/globalmute** - mute players access to chat (only for events)
