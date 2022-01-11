@@ -18,7 +18,3 @@
 ~ MoonRacco0n
   * fluffy_archer
   * Mmichienzi14
-
-## Helpers
-~ fluffy_archer
-~ Mmichienzi14
