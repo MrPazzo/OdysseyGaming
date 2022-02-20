@@ -5,10 +5,11 @@
 ## Owner
 ~ Mr_Pazzo
   * Skepticism
-
+  * Trevtheman
+  
 ## Managers
 ~ Skepticism
-  * trevtheman
+
 ~ trevtheman
   * vChubbz
   
