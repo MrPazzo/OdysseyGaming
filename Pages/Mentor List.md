@@ -9,12 +9,13 @@
 ## Managers
 ~ Skepticism
   * trevtheman
-
-## Admins
 ~ trevtheman
-  * MoonRacco0n
-
-## Mods
+  * vChubbz
+  
+## Admins
 ~ MoonRacco0n
   * fluffy_archer
   * Mmichienzi14
+
+## Mods
+~ N/A
