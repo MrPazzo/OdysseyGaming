@@ -13,6 +13,8 @@ Here you will find a current list of all our staff members, the list is updated 
 
 **MANAGER** - Skepticism 
 
+**MANAGER** - Trevtheman
+
 ### Development
 
 **DEVELOPER** - Cobanermani 
@@ -23,13 +25,13 @@ Here you will find a current list of all our staff members, the list is updated 
 
 **HEAD-ADMIN** - N/A
 
-**ADMIN** - Trevtheman
+**ADMIN** - MoonRacco0n
 
 ### Moderation
 
 **HEAD-MOD** - N/A
 
-**MOD** - MoonRacco0n
+**MOD** - N/A
 
 **TRAIL-MOD** - N/A
 
@@ -37,5 +39,6 @@ Here you will find a current list of all our staff members, the list is updated 
 
 **HELPER** - Mmichienzi14
 
+**HELPER** - vChubbz
 
 
