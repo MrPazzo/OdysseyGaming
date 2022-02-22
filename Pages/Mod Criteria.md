@@ -14,7 +14,7 @@ Please remember that it's crucial to always keep a calm head when dealing with t
 
 - As a mentor, you are the first person of contact for your mentees in almost any situation, try your best to respond to them quickly if asked for help. If one of your mentees happens to go off rails you may be held accountable depending on the situation. 
 
-- The minimum hour requirement to stay as a mod is 10 hours per week. Failure to reach this requirement will result in a conversation with upper staff and if the issue persists, you may be demoted/removed from the staff team. In addition to this, in order to be **considered** for a promotion, you must reach at least 18 hours per week.
+- The minimum hour requirement to stay as a mod is 10 hours per week. Failure to reach this requirement will result in a conversation with upper staff and if the issue persists, you may be demoted/removed from the staff team. In addition to this, in order to be **considered** for a promotion, you must reach at least 13 hours per week.
 
 **Please remember that staff members are always expected to fulfill the requirements of all of the positions before them to some degree. Keeping that in mind, the main focuses of your roles will be outlined here.**
 
