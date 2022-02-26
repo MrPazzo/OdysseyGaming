@@ -11,19 +11,19 @@ Here you can find the Broadcasts needed when hosting the events. Be aware to pos
 
 15 Minutes 
 ```
-/pbc &6&lPOKEDODGEBALL STARTS IN &b&l15 MINUTES! &e&lType &b&l/pokedodgeball join &e&lto enter the event!
+/pbc &6&lPOKEDODGEBALL STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp pokedodgeball &e&lto enter the event!
 ```
 10 Minutes
 ```
-/pbc &6&lPOKEDODGEBALL STARTS IN &c&l10 MINUTES! &e&lType &c&l/pokedodgeball join &e&lto enter the event!
+/pbc &6&lPOKEDODGEBALL STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp pokedodgeball &e&lto enter the event!
 ```
 5 Minutes
 ```
-/pbc &6&lPOKEDODGEBALL STARTS IN &4&l5 MINUTES! &e&lType &4&l/pokedodgeball join &e&lto enter the event!
+/pbc &6&lPOKEDODGEBALL STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp pokedodgeball &e&lto enter the event!
 ```
 Starting
 ```
-/pbc &b&lPOKEDODGEBALL IS &6&lSTARTING! &b&lTYPE &6&l/pokedodgeball join &B&lTO PARTICIPATE!
+/pbc &b&lPOKEDODGEBALL IS &6&lSTARTING! &b&lTYPE &6&l/warp pokedodgeball &B&lTO PARTICIPATE!
 ```
 
 ### Spleef
