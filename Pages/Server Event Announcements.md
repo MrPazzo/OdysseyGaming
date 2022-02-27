@@ -30,30 +30,30 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lSPLEEF STARTS IN &b&l15 MINUTES! &e&lType &b&l/spleef join &e&lto enter the event!
+/pbc &6&lSPLEEF STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp spleef &e&lto enter the event!
 ```
 10 Minutes
 ```
-/pbc &6&lSPLEEF STARTS IN &c&l10 MINUTES! &e&lType &c&l/spleef join &e&lto enter the event!
+/pbc &6&lSPLEEF STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp spleef &e&lto enter the event!
 ```
 5 Minutes
 ```
-/pbc &6&lSPLEEF STARTS IN &4&l5 MINUTES! &e&lType &4&l/spleef join &e&lto enter the event!
+/pbc &6&lSPLEEF STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp spleef &e&lto enter the event!
 ```
 Starting
 ```
-/pbc &b&lSPLEEF IS &6&lSTARTING! &b&lTYPE &6&l/spleef join &B&lTO PARTICIPATE!
+/pbc &b&lSPLEEF IS &6&lSTARTING! &b&lTYPE &6&l/warp spleef &B&lTO PARTICIPATE!
 ```
 
 ### Boat Race
 
 15 Minutes 
 ```
-/pbc &6&lBOAT RACE STARTS IN &b&l15 MINUTES! &e&lType &b&l/boatrace join &e&lto enter the event!
+/pbc &6&lBOAT RACE STARTS IN &b&l15 MINUTES! &e&lType &b&l/boatrace &e&lto enter the event!
 ```
 10 Minutes
 ```
-/pbc &6&lBOAT RACE STARTS IN &c&l10 MINUTES! &e&lType &c&l/boatrace join &e&lto enter the event!
+/pbc &6&lBOAT RACE STARTS IN &c&l10 MINUTES! &e&lType &c&l/boatrace &e&lto enter the event!
 ```
 5 Minutes
 ```
@@ -68,15 +68,15 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lCOLOR DROP STARTS IN &b&l15 MINUTES! &e&lType &b&l/colordrop join &e&lto enter the event!
+/pbc &6&lCOLOR DROP STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp colordrop &e&lto enter the event!
 ```
 10 Minutes
 ```
-/pbc &6&lCOLOR DROP STARTS IN &c&l10 MINUTES! &e&lType &c&l/colordrop join &e&lto enter the event!
+/pbc &6&lCOLOR DROP STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp colordrop &e&lto enter the event!
 ```
 5 Minutes
 ```
-/pbc &6&lCOLOR DROP STARTS IN &4&l5 MINUTES! &e&lType &4&l/colordrop join &e&lto enter the event!
+/pbc &6&lCOLOR DROP STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp colordrop &e&lto enter the event!
 ```
 Starting
 ```
