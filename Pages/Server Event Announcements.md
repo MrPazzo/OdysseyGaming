@@ -30,15 +30,15 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lSPLEEF STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp spleef &e&lto enter the event!
+/pbc &6&lSPLEEF STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp spleef &e&lto prepare for the event!
 ```
 10 Minutes
 ```
-/pbc &6&lSPLEEF STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp spleef &e&lto enter the event!
+/pbc &6&lSPLEEF STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp spleef &e&lto prepare for the event!
 ```
 5 Minutes
 ```
-/pbc &6&lSPLEEF STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp spleef &e&lto enter the event!
+/pbc &6&lSPLEEF STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp spleef &e&lto prepare for the event!
 ```
 Starting
 ```
@@ -49,15 +49,15 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lBOAT RACE STARTS IN &b&l15 MINUTES! &e&lType &b&l/boatrace &e&lto enter the event!
+/pbc &6&lBOAT RACE STARTS IN &b&l15 MINUTES! &e&lType &b&l/boatrace &e&lto prepare for the event!
 ```
 10 Minutes
 ```
-/pbc &6&lBOAT RACE STARTS IN &c&l10 MINUTES! &e&lType &c&l/boatrace &e&lto enter the event!
+/pbc &6&lBOAT RACE STARTS IN &c&l10 MINUTES! &e&lType &c&l/boatrace &e&lto prepare for the event!
 ```
 5 Minutes
 ```
-/pbc &6&lBOAT RACE STARTS IN &4&l5 MINUTES! &e&lType &4&l/boatrace join &e&lto enter the event!
+/pbc &6&lBOAT RACE STARTS IN &4&l5 MINUTES! &e&lType &4&l/boatrace join &e&lto prepare for the event!
 ```
 Starting
 ```
@@ -68,15 +68,15 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lCOLOR DROP STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp colordrop &e&lto enter the event!
+/pbc &6&lCOLOR DROP STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp colordrop &e&lto prepare for the event!
 ```
 10 Minutes
 ```
-/pbc &6&lCOLOR DROP STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp colordrop &e&lto enter the event!
+/pbc &6&lCOLOR DROP STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp colordrop &e&lto prepare for the event!
 ```
 5 Minutes
 ```
-/pbc &6&lCOLOR DROP STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp colordrop &e&lto enter the event!
+/pbc &6&lCOLOR DROP STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp colordrop &e&lto prepare for the event!
 ```
 Starting
 ```
@@ -87,15 +87,15 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lMAZE RUNNER STARTS IN &b&l15 MINUTES! &e&lType &b&l/mazerunner join &e&lto enter the event!
+/pbc &6&lMAZE RUNNER STARTS IN &b&l15 MINUTES! &e&lType &b&l/mazerunner join &e&lto prepare for the event!
 ```
 10 Minutes
 ```
-/pbc &6&lMAZE RUNNER STARTS IN &c&l10 MINUTES! &e&lType &c&l/mazerunner join &e&lto enter the event!
+/pbc &6&lMAZE RUNNER STARTS IN &c&l10 MINUTES! &e&lType &c&l/mazerunner join &e&lto prepare for the event!
 ```
 5 Minutes
 ```
-/pbc &6&lMAZE RUNNER STARTS IN &4&l5 MINUTES! &e&lType &4&l/mazerunner join &e&lto enter the event!
+/pbc &6&lMAZE RUNNER STARTS IN &4&l5 MINUTES! &e&lType &4&l/mazerunner join &e&lto prepare for the event!
 ```
 Starting
 ```
@@ -106,15 +106,15 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lPICTIONARY STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp pictionary &e&lto enter the event!
+/pbc &6&lPICTIONARY STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp pictionary &e&lto prepare for the event!
 ```
 10 Minutes
 ```
-/pbc &6&lPICTIONARY STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp pictionary &e&lto enter the event!
+/pbc &6&lPICTIONARY STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp pictionary &e&lto prepare for the event!
 ```
 5 Minutes
 ```
-/pbc &6&lPICTIONARY STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp pictionary &e&lto enter the event!
+/pbc &6&lPICTIONARY STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp pictionary &e&lto prepare for the event!
 ```
 Starting
 ```
@@ -125,15 +125,15 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lHIDE AND SEEK STARTS IN &b&l15 MINUTES! &e&lCome to &b&l/spawn &e&lto join!
+/pbc &6&lHIDE AND SEEK STARTS IN &b&l15 MINUTES! &e&lCome to &b&l/spawn &e&lto prepare for the event!
 ```
 10 Minutes
 ```
-/pbc &6&lHIDE AND SEEK STARTS IN &c&l10 MINUTES! &e&lCome to &b&l/spawn &e&lto join!
+/pbc &6&lHIDE AND SEEK STARTS IN &c&l10 MINUTES! &e&lCome to &b&l/spawn &e&lto prepare for the event!
 ```
 5 Minutes
 ```
-/pbc &6&lHIDE AND SEEK STARTS IN &4&l5 MINUTES! &e&lCome to &b&l/spawn &e&lto join!
+/pbc &6&lHIDE AND SEEK STARTS IN &4&l5 MINUTES! &e&lCome to &b&l/spawn &e&ltto prepare for the event!
 ```
 Starting
 ```
@@ -144,15 +144,15 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lCRANE GAME STARTS IN &b&l15 MINUTES! &e&lType &b&l/cg join &e&lto enter the event!
+/pbc &6&lCRANE GAME STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp cranegame &e&lto prepare for the event!
 ```
 10 Minutes
 ```
-/pbc &6&lCRANE GAME STARTS IN &c&l10 MINUTES! &e&lType &c&l/cg join &e&lto enter the event!
+/pbc &6&lCRANE GAME STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp cranegame &e&lto prepare for the event!
 ```
 5 Minutes
 ```
-/pbc &6&lCRANE GAME STARTS IN &4&l5 MINUTES! &e&lType &4&l/cg join &e&lto enter the event!
+/pbc &6&lCRANE GAME STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp cranegame &e&lto prepare for the event!
 ```
 Starting
 ```
