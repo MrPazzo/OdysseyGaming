@@ -87,19 +87,19 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lMAZE RUNNER STARTS IN &b&l15 MINUTES! &e&lType &b&l/mazerunner join &e&lto prepare for the event!
+/pbc &6&lMAZE RUNNER STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp mazerunner &e&lto prepare for the event!
 ```
 10 Minutes
 ```
-/pbc &6&lMAZE RUNNER STARTS IN &c&l10 MINUTES! &e&lType &c&l/mazerunner join &e&lto prepare for the event!
+/pbc &6&lMAZE RUNNER STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp mazerunner &e&lto prepare for the event!
 ```
 5 Minutes
 ```
-/pbc &6&lMAZE RUNNER STARTS IN &4&l5 MINUTES! &e&lType &4&l/mazerunner join &e&lto prepare for the event!
+/pbc &6&lMAZE RUNNER STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp mazerunner &e&lto prepare for the event!
 ```
 Starting
 ```
-/pbc &b&lMAZE RUNNER IS &6&lSTARTING! &b&lTYPE &6&l/mazerunner join &B&lTO PARTICIPATE!
+/pbc &b&lMAZE RUNNER IS &6&lSTARTING! &b&lTYPE &6&l/warp mazerunner &B&lTO PARTICIPATE!
 ```
 
 ### Pictionary
