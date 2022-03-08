@@ -49,19 +49,21 @@ Starting
 
 15 Minutes 
 ```
-/pbc &6&lBOAT RACE STARTS IN &b&l15 MINUTES! &e&lType &b&l/boatrace &e&lto prepare for the event!
+/pbc &6&lBOAT RACE STARTS IN &b&l15 MINUTES! &e&lType &b&l/warp boatrace &e&lto prepare for the event!
 ```
 10 Minutes
 ```
-/pbc &6&lBOAT RACE STARTS IN &c&l10 MINUTES! &e&lType &c&l/boatrace &e&lto prepare for the event!
+/pbc &6&lBOAT RACE STARTS IN &c&l10 MINUTES! &e&lType &c&l/warp boatrace &e&lto prepare for the event!
 ```
 5 Minutes
 ```
-/pbc &6&lBOAT RACE STARTS IN &4&l5 MINUTES! &e&lType &4&l/boatrace join &e&lto prepare for the event!
+/pbc &6&lBOAT RACE STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp boatrace join &e&lto prepare for the event!
 ```
 Starting
 ```
-/pbc &b&lBOAT RACE IS &6&lSTARTING! &b&lTYPE &6&l/boatrace join &B&lTO PARTICIPATE!
+/pbc &b&lBOAT RACE IS &6&lSTARTING! &b&lTYPE &6&l/warp boatrace &B&lTO PARTICIPATE!
+
+/pbc &b&lREMEMBER THAT IF YOU GET STUCK, YOU HAVE TO RETURN TO &6&l/warp boatrace &b&lTO START AGAIN!
 ```
 
 ### Color Drop
