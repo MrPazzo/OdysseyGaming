@@ -57,7 +57,7 @@ Starting
 ```
 5 Minutes
 ```
-/pbc &6&lBOAT RACE STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp boatrace join &e&lto prepare for the event!
+/pbc &6&lBOAT RACE STARTS IN &4&l5 MINUTES! &e&lType &4&l/warp boatrace &e&lto prepare for the event!
 ```
 Starting
 ```
