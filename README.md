@@ -40,6 +40,6 @@ This also includes Documents in other sections, but ones which you have access t
 ### Quicklinks
 - [Website](https://mc-odyssey.store/)
 - [Twitter](https://twitter.com/OdysseyNetworks)
-- [Youtube](COMING SOON)
+- [Youtube](https://www.youtube.com/watch?v=Nym9hkWGKP4)
 - [Tiktok](https://www.tiktok.com/@odysseynetwork)
 ---
