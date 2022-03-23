@@ -8,15 +8,11 @@
 
 ## Managers
 ~ Skepticism
-  * trevtheman
-
-~ trevtheman
-  * vChubbz
+  * MoonRacco0n
   
 ## Admins
 ~ MoonRacco0n
-  * fluffy_archer
-  * Mmichienzi14
+  * vChubbz
 
 ## Mods
-~ N/A
+~ vChubbz
