@@ -17,7 +17,6 @@ This also includes Documents in other sections, but ones which you have access t
 - [Staff Guidelines](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Staff%20Guidelines.md)
 - [Punishment Guidelines](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Punishment%20Guidelines.md)
 - [Staff List & Hierarchy](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Staff%20List.md)
-- [Graph (COMING SOON)](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Graph%20(COMING%20SOON).md)
 ---
 ### Role Criteria/Permissions 
 - [Helper Criteria](https://github.com/MrPazzo/OdysseyGaming/blob/main/Pages/Helper%20Criteria.md)
